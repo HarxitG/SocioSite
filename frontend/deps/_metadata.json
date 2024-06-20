@@ -1,0 +1,67 @@
+{
+  "hash": "9db440de",
+  "configHash": "4b3e9295",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "bdcea936",
+  "optimized": {
+    "@chakra-ui/react": {
+      "src": "../../node_modules/@chakra-ui/react/dist/index.mjs",
+      "file": "@chakra-ui_react.js",
+      "fileHash": "471b4b56",
+      "needsInterop": false
+    },
+    "@chakra-ui/theme-tools": {
+      "src": "../../node_modules/@chakra-ui/theme-tools/dist/index.mjs",
+      "file": "@chakra-ui_theme-tools.js",
+      "fileHash": "a663b0bc",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "20dd30dd",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "5f51ace7",
+      "needsInterop": true
+    },
+    "react-icons/bs": {
+      "src": "../../node_modules/react-icons/bs/index.mjs",
+      "file": "react-icons_bs.js",
+      "fileHash": "f72f650a",
+      "needsInterop": false
+    },
+    "react-icons/cg": {
+      "src": "../../node_modules/react-icons/cg/index.mjs",
+      "file": "react-icons_cg.js",
+      "fileHash": "57eb87fe",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "904de4a5",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-RCIJCJ5Y": {
+      "file": "chunk-RCIJCJ5Y.js"
+    },
+    "chunk-WXSKVWTA": {
+      "file": "chunk-WXSKVWTA.js"
+    },
+    "chunk-HH2LLOOZ": {
+      "file": "chunk-HH2LLOOZ.js"
+    },
+    "chunk-4JI2AD7N": {
+      "file": "chunk-4JI2AD7N.js"
+    },
+    "chunk-CEQRFMJQ": {
+      "file": "chunk-CEQRFMJQ.js"
+    }
+  }
+}
